@@ -2,7 +2,7 @@
 - 👀 I’m interested in access to information, information literacy, data libraries, and cloud storage solutions.
 - 🌱 I’m currently learning how to use GitHub as a person and not a student.
 - 💞️ I’m looking to collaborate on cataloging, analysis, and engagement projects for digital repositorties (R, SQL, Python)
-- 📫 jill.davis95@gmail.com
+- 📫 jcdavischi@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I make a mean spiced apple loaf cake 🍎🍴 
 
