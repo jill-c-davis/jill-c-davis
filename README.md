@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jillian Davis
+## 👋 Hi, I'm Jill Davis
 
 I'm a data analyst and digital librarian working at the intersection of information systems, equity, and public service. My background spans academic libraries, nonprofit archives, and the tech industry, where I've built dashboards, cleaned metadata, visualized user behavior, and translated data into strategy.
 
